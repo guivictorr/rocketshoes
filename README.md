@@ -14,10 +14,10 @@ Frontend
 
 ```
 ## 1. Clone repo
-git clone https://github.com/guivictorr/gorestaurant.git
+git clone https://github.com/guivictorr/rocketshoes.git
 
 ## 2. Change to project folder
-cd gorestaurant
+cd rocketshoes
 
 ## 3. Install dependencies
 yarn
@@ -40,5 +40,5 @@ Once your pull request has been merged, you can delete your branch.
 
 ## 📝 License
 
-This project is under the MIT license. See the [LICENSE](https://github.com/guivictorr/gorestaurant/blob/main/LICENSE) file for more details.
+This project is under the MIT license. See the [LICENSE](https://github.com/guivictorr/rocketshoes/blob/main/LICENSE) file for more details.
  
