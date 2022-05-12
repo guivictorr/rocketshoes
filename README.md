@@ -1,5 +1,5 @@
-<h1 align='center'>Watchme</h1>
-<p align='center'>A Challenge from Ignite bootcamp to practice componentization with ReactJS</p>
+<h1 align='center'>Rocketshoes</h1>
+<p align='center'>A Challenge from Ignite bootcamp to practice context api</p>
 
 ## 🛠 Technologies
 
