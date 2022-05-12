@@ -1,5 +1,5 @@
 <h1 align='center'>Rocketshoes</h1>
-<p align='center'>A Challenge from Ignite bootcamp to practice context api</p>
+<p align='center'>Challenge to practice converting javascript to typescript and class components to functional components</p>
 
 ## 🛠 Technologies
 
@@ -14,10 +14,10 @@ Frontend
 
 ```
 ## 1. Clone repo
-git clone https://github.com/guivictorr/rocketshoes.git
+git clone https://github.com/guivictorr/gorestaurant.git
 
 ## 2. Change to project folder
-cd rocketshoes
+cd gorestaurant
 
 ## 3. Install dependencies
 yarn
@@ -40,5 +40,5 @@ Once your pull request has been merged, you can delete your branch.
 
 ## 📝 License
 
-This project is under the MIT license. See the [LICENSE](https://github.com/guivictorr/rocketshoes/blob/main/LICENSE) file for more details.
+This project is under the MIT license. See the [LICENSE](https://github.com/guivictorr/gorestaurant/blob/main/LICENSE) file for more details.
  
