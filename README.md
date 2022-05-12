@@ -1,5 +1,5 @@
 <h1 align='center'>Rocketshoes</h1>
-<p align='center'>Challenge to practice converting javascript to typescript and class components to functional components</p>
+<p align='center'>A Challenge from Ignite bootcamp to practice context api</p>
 
 ## 🛠 Technologies
 
